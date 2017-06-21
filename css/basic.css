@@ -1,0 +1,25 @@
+.center {
+    text-align:center;
+	margin: 0 auto;
+}
+.center form {
+    display:inline-block;
+}
+.left {
+    float:left;
+}
+.right {
+    float:right;
+}
+section.home {
+	margin-top:20px;
+}
+.navbar-brand {
+	padding-top:0px !important;
+}
+.about-img {
+	width:100%;
+}
+.btn-yt {
+ background:#b31217;
+}
